@@ -1,6 +1,6 @@
 # ts-react-users
 
-A simple TypeScript React app to display users.
+A simple TypeScript React app to display users to learn about TypeScript.
 
 ## Features
 
